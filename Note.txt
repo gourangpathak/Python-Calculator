@@ -1,0 +1,106 @@
+Implementing a scientific Calculator
+-----------------------------------
+
+Team: Gourang Pathak,Himanshu Gangwar and Prem Swarup
+
+Project Files:
+1. 27-PythonSorceres - (main script file)
+2. circle.py - (self created module)
+3. square.py - (self created module)
+4. rectangle.py - (self created module)
+5. triangle.py - (self created module)
+6. operators.py - (self created module)
+7. calc_his.txt - (text file)
+
+Sample inputs(Example):
+Choose the operation you want to perform:
+    1. Addition
+    2. Subtraction
+    3. Multiplication
+    4. Division
+    5. Basic expression
+    6. Absolute Difference
+    7. Modulo
+    8. Square root
+    9. Square
+    10. Power
+    11. Tenth power
+    12. yth root of x
+    13. Quadratic roots
+    14. Factorial
+    15. Exponential
+    16. Percentage
+    17. Trigonometric Functions
+    18. Matrix operations
+    19. Area
+    20. Show History
+    21. Clear History
+    22. Exit
+
+    1
+Enter first number : 23
+Enter second number : 45
+68.0
+Enter new operation:
+(Or enter "Menu" if you want to see menu)
+3
+Enter first number : 45
+Enter second number : 2
+90.0
+Enter new operation:
+(Or enter "Menu" if you want to see menu)
+18
+Enter matrix operation you want to perform:
+        i. Addition
+        ii. Subtraction
+        iii. Multiplication
+        i
+1st matrix
+enter no. of rows: 2
+enter no. of columns: 2
+
+
+2nd matrix
+enter no. of rows: 2
+enter no. of columns: 2
+
+
+matrix 1 :
+enter 1 th  row  1 th  column value
+1
+enter 1 th  row  2 th  column value
+2
+enter 2 th  row  1 th  column value
+3
+enter 2 th  row  2 th  column value
+4
+
+
+matrix 2:
+enter 1 th  row  1 th  column value
+1
+enter 1 th  row  2 th  column value
+2
+enter 2 th  row  1 th  column value
+3
+enter 2 th  row  2 th  column value
+4
+
+matrix 1 is:
+[1, 2]
+[3, 4]
+
+
+matrix 2 is:
+[1, 2]
+[3, 4]
+
+addition matrix is:
+[2, 4]
+[6, 8]
+Enter new operation:
+(Or enter "Menu" if you want to see menu)
+20
+23.0 + 45.0 = 68.0
+        45.0 x 2.0 = 90.0
+        [[1, 2], [3, 4]]+[[1, 2], [3, 4]]=[[2, 4], [6, 8]]
